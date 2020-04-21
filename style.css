@@ -2,5 +2,6 @@
  h1 {color: Black; font-size: 28px}
 header {background-color:Black; color:white; text-align:center; padding:5px}
 section {background-color:white}
+body {text-align:center}
 footer {background-color:black; color:white; clear:both; text-align:center; padding:5px}
  
