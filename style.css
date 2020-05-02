@@ -3,3 +3,5 @@
 header {background-color:Black; color:white; text-align:center; padding:5px}
 body {text-align:center}
 footer {background-color:black; color:white; clear:both; text-align:center; padding:5px}
+#content{width:1150px; height:100%; background-image: url("/img/bg.jpg");text-align:center; background-repeat: no-repeat;
+background-size: cover;}
